@@ -1,0 +1,39 @@
+
+.answer {
+    margin-top: 5px;
+    font-size: 4em;
+}
+
+.alert {
+    color: red;
+    
+}
+
+#wrapper {
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.calc-button {
+    margin: 0 auto;
+    color: darkslategray;
+    background-color: white;
+    border-color: darkslategray;
+    width: 74px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#login{
+    margin-bottom: 5px;
+
+}
+
